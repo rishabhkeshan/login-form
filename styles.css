@@ -31,3 +31,8 @@ p{
 p{
 	font-size: 4vw;
 	}}
+.form-container{
+	padding: 50px 60px;
+	margin-top: 15vh;
+	box-shadow: 4px 4px 26px 11px rgba(0,0,0,0.75);
+}
